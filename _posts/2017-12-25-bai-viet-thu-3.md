@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bài viết thứ 3
-permalink: /:title.html
 categories: Jekyll
 ---
 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-25T07:58:29+07:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Bài viết thứ 3</title><link href="http://localhost:4000/bai-viet-thu-3.html" rel="alternate" type="text/html" title="Bài viết thứ 3" /><published>2017-12-25T00:00:00+07:00</published><updated>2017-12-25T00:00:00+07:00</updated><id>http://localhost:4000/bai-viet-thu-3</id><content type="html" xml:base="http://localhost:4000/bai-viet-thu-3.html">&lt;p&gt;Chào mừng các bạn đã đến với website của chúng tôi&lt;/p&gt;
+&lt;h2 id=&quot;bài-học-1&quot;&gt;Bài học 1&lt;/h2&gt;
+&lt;p&gt;Xin chào tôi tên Ly, hiện tại tôi đang công tác tại đà nẵng
+Ở bài &lt;strong&gt;học&lt;/strong&gt; này tôi sẽ hướng dẫn cho bạn cách cài win &lt;em&gt;đơn giản nhất&lt;/em&gt;
+Bài học bao gồm&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;cách 1&lt;/li&gt;
+  &lt;li&gt;cách 2&lt;/li&gt;
+  &lt;li&gt;cách 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;Tải hình nền&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://hinhanhdepvip.com/wp-content/uploads/2016/07/anh-avatar-girl-xinh.jpg&quot; alt=&quot;Ảnh gái xinh&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cấu trúc chuẩn của bài học này là: 1231321312&lt;/p&gt;</content><author><name></name></author><summary type="html">Chào mừng các bạn đã đến với website của chúng tôi Bài học 1 Xin chào tôi tên Ly, hiện tại tôi đang công tác tại đà nẵng Ở bài học này tôi sẽ hướng dẫn cho bạn cách cài win đơn giản nhất Bài học bao gồm cách 1 cách 2 cách 3</summary></entry><entry><title type="html">Bài viết thứ 2</title><link href="http://localhost:4000/bai-viet-thu-2.html" rel="alternate" type="text/html" title="Bài viết thứ 2" /><published>2017-12-24T21:45:30+07:00</published><updated>2017-12-24T21:45:30+07:00</updated><id>http://localhost:4000/bai-viet-thu-2</id><content type="html" xml:base="http://localhost:4000/bai-viet-thu-2.html">&lt;p&gt;Chào mừng các bạn đến với khóa học lập trình, ở bài viết này mình sẽ hướng dẫn các bạn cách lập trình Jekyll&lt;/p&gt;
+
+&lt;h1 id=&quot;2-cách-cài-đặt-laravel&quot;&gt;2. Cách cài đặt laravel&lt;/h1&gt;
+&lt;p&gt;Kết thúc khóa học này hi vọng sẽ giúp bạn có được hành trang tốt nhất khi làm việc nhóm&lt;/p&gt;
+
+&lt;p&gt;Your awesome title
+your-email@example.com&lt;/p&gt;</content><author><name></name></author><summary type="html">Chào mừng các bạn đến với khóa học lập trình, ở bài viết này mình sẽ hướng dẫn các bạn cách lập trình Jekyll</summary></entry><entry><title type="html">Đây là bài viết đầu tiên của Huỳnh Tòng</title><link href="http://localhost:4000/bai-viet-dau-tien.html" rel="alternate" type="text/html" title="Đây là bài viết đầu tiên của Huỳnh Tòng" /><published>2017-12-24T21:25:32+07:00</published><updated>2017-12-24T21:25:32+07:00</updated><id>http://localhost:4000/bai-viet-dau-tien</id><content type="html" xml:base="http://localhost:4000/bai-viet-dau-tien.html">&lt;p&gt;Chào mừng các bạn đến với khóa học lập trình của Lar.vn, bài học này rất đơn giản, thực tế &lt;code class=&quot;highlighter-rouge&quot;&gt;cau truc&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;#Chào bạn&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Chào mừng các bạn đến với khóa học lập trình của Lar.vn, bài học này rất đơn giản, thực tế cau truc</summary></entry></feed>
